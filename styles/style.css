@@ -9,6 +9,7 @@
 
 body {
     color: var(--color-primary-dark);
+    font-family: 'Poppins', sans-serif;
 }
 
 ul {
@@ -45,6 +46,7 @@ ul {
 
 .hero-title {
     color: var(--color-primary-light);
+
 }
 
 .hero-title .accent {
@@ -61,3 +63,6 @@ ul {
 .section-title .accent {
     color: var(--color-brand-dark);
 }
+
+
+/* module 6 time 56:00 */
